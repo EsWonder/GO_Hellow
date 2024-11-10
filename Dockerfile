@@ -1,4 +1,4 @@
-# Use an official Go runtime as the base image
+# Use an official Go 
 FROM golang:1.20
 
 # Set the working directory
